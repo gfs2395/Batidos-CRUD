@@ -1,0 +1,36 @@
+#descripcion{
+    width: 500px;
+    height: 100px;
+    border: 1px solid black;
+    margin-top: 2%;
+
+}
+
+#frutas{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 500px;
+    height: 400px;
+    margin-top: 2%;
+    border: 1px solid black;
+
+}
+.esperando{
+    background-color: grey;
+}
+.divFruta{
+    width: 150px;
+    height: 120px;
+    background-color: gray;
+    border: 1px solid black;
+    margin: 8%;
+
+}
+img{
+    width: 150px;
+    height: 120px;
+}
+.error{
+    color: red;
+}

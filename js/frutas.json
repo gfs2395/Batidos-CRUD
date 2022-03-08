@@ -1,0 +1,50 @@
+ [
+    {
+      "nombre": "Melón",
+      "idBatido": "1",
+      "IMGsrc":
+        "https://www.edenbrothers.com/store/media/Seeds-Vegetables/SVMEL113-1.jpg"
+    },
+    {
+      "nombre": "Sandía",
+      "idBatido": "2",
+      "IMGsrc":
+        "https://www.ayayay.tv/wp-content/uploads/2016/08/portada-sandia.jpg"
+    },
+    {
+      "nombre": "Piña",
+      "idBatido": "3",
+      "IMGsrc":
+        "https://dam.cocinafacil.com.mx/wp-content/uploads/2018/05/que-es-dieta-de-la-pina-como-hacerla.jpg"
+    },
+    {
+      "nombre": "Mango",
+      "idBatido": "4",
+      "IMGsrc":
+        "https://soycurioso.net/wp-content/uploads/2020/11/mango-P3635AB-scaled.jpg"
+    },
+    {
+      "nombre": "Manzana",
+      "idBatido": "5",
+      "IMGsrc":
+        "https://manzanas10.com/wp-content/uploads/2020/04/manzana-jonagold.jpg"
+    },
+    {
+      "nombre": "pera",
+      "idBatido": "6",
+      "IMGsrc": "https://mujerconsalud.com/wp-content/uploads/2020/04/pera.jpg"
+    },
+    {
+      "nombre": "Ciruela",
+      "idBatido": "7",
+      "IMGsrc":
+        "https://http2.mlstatic.com/ciruela-negra-arbol-var-moscatel-150-m-autoesteril-D_NQ_NP_770534-MLM26686664302_012018-F.jpg"
+    },
+    {
+      "nombre": "Naranja",
+      "idBatido": "8",
+      "IMGsrc":
+        "https://valledelracimo.com/wp-content/uploads/Naranja_Wasinhtong.jpg"
+    }
+  
+  ]
